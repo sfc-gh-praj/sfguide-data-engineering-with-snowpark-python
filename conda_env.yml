@@ -6,6 +6,6 @@ dependencies:
   - python=3.8
   - snowflake-snowpark-python
   - pip
-  - pip:
-    # Snowflake
-    - snowflake-cli-labs
+  #- pip:
+  #  # Snowflake
+  #  - snowflake-cli-labs
